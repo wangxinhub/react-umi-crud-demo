@@ -359,7 +359,7 @@ export function patch(id, values) {
 
 ### Github
 
-https://github.com/wangxin1987/react-umi-crud-demo
+https://github.com/wangxinhub/react-umi-crud-demo
 
 ### 参考资料
 
