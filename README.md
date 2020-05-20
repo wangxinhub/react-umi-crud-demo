@@ -372,4 +372,4 @@ https://github.com/sorrycc/blog/issues/62
 
 
 ### 交流方式
-![wang.png](http://ww1.sinaimg.cn/large/c40da701ly1geyyxlozkhj20an0e4q58.jpg)
+![wang.png](http://ww1.sinaimg.cn/thumbnail/c40da701ly1geyyxlozkhj20an0e4q58.jpg)
