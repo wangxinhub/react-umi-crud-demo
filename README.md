@@ -368,3 +368,9 @@ https://umijs.org/zh/
 https://github.com/dvajs/dva
 https://github.com/sorrycc/blog/issues/62
 ```
+
+
+
+### 交流方式
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/54531443/82419831-7ae5f080-9ab1-11ea-821f-22e72023b2d2.png
+)
