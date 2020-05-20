@@ -372,4 +372,4 @@ https://github.com/sorrycc/blog/issues/62
 
 
 ### 交流方式
-![wang.png](https://note.youdao.com/yws/public/resource/3ebe10ff5fb5d8a5a6ff2584cfe3ac42/65677A858FED4EF8A3D1AA11CF31F34E?ynotemdtimestamp=1589962032385)
+![微信号：it1987com](https://note.youdao.com/yws/public/resource/3ebe10ff5fb5d8a5a6ff2584cfe3ac42/65677A858FED4EF8A3D1AA11CF31F34E?ynotemdtimestamp=1589962032385)
